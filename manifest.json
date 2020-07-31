@@ -1,0 +1,16 @@
+{
+    "name": "DiSEL price per point on Toram",
+    "description" : "Show price per point on DiSEL",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "matches": ["https://www.disel.io/ja/games/items/?gameSlug=toram*"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+    }],
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	}
+}

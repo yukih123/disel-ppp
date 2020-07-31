@@ -1,0 +1,14 @@
+.disel-ppp-chrome-extension-result {
+    margin: 1em 0 -1em;
+}
+.disel-ppp-chrome-extension-result:before {
+    content: "P";
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-color: #ff6969;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 3px;
+}
