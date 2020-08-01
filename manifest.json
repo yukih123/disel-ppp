@@ -1,7 +1,8 @@
 {
-    "name": "DiSEL price per point on Toram",
-    "description" : "Show price per point on DiSEL",
+    "name": "DiSEL price per point of Toram",
+    "description" : "Show price per point on DiSEL (Toram Online only).",
     "version": "1.0",
+    "author": "Tsupi",
     "manifest_version": 2,
     "content_scripts": [{
         "matches": ["https://www.disel.io/ja/games/items/?gameSlug=toram*"],
