@@ -1,17 +1,20 @@
 {
-    "name": "DiSEL price per point of Toram",
-    "description" : "Show price per point on DiSEL (Toram Online only).",
-    "version": "1.01",
-    "author": "Tsupi",
+    "name": "__MSG_name__",
+    "description" : "__MSG_desc__",
+    "author": "__MSG_author__",
+    "default_locale": "ja",
     "manifest_version": 2,
+    "version": "1.1.1",
+
     "content_scripts": [{
         "matches": ["https://www.disel.io/ja/games/items/?gameSlug=toram*"],
         "js": ["content.js"],
         "css": ["style.css"]
     }],
-	"icons": {
-		"16": "icon16.png",
-		"48": "icon48.png",
-		"128": "icon128.png"
-	}
+
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
 }
