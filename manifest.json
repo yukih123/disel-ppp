@@ -4,10 +4,13 @@
     "author": "__MSG_author__",
     "default_locale": "ja",
     "manifest_version": 2,
-    "version": "1.1.1",
+    "version": "1.1.2",
 
     "content_scripts": [{
-        "matches": ["https://www.disel.io/ja/games/items/?gameSlug=toram*"],
+        "matches": [
+            "https://www.disel.io/ja/games/items/?gameSlug=toram*",
+            "https://www.disel.io/en/games/items/?gameSlug=toram*"
+        ],
         "js": ["content.js"],
         "css": ["style.css"]
     }],

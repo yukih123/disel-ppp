@@ -20,9 +20,9 @@ function add() {
         }
 
         // スピナ
-        let unit = 'pt';
+        let unit = point.match(/pts?/);
         let digit = 100;
-        if (point.match(/s\)$/)) {
+        if (! unit) {
             unit = 's';
             digit = 10000;
         }
