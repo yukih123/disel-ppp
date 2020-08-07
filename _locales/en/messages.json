@@ -1,0 +1,5 @@
+{
+    "name": { "message": "DiSEL price per point of Toram" },
+	"desc": { "message": "This plugin displays price per point on DiSEL (Toram Online only). You can find reasonable items with this plugin." },
+	"author": { "message": "Tsupi" }
+}
