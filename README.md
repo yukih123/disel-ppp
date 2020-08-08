@@ -2,7 +2,7 @@
 
 ### Chrome web store: [DiSEL price per point of Toram](https://chrome.google.com/webstore/detail/disel-price-per-point-on/nbhjgdmlihcoedohigghahmakamlliib?hl=en&authuser=0)
 
-<img src="https://bitbucket.org/repo/xXbp7p9/images/2352194500-en_deco.jpg" width="640">
+![](https://bitbucket.org/repo/xXbp7p9/images/4120719551-en_deco_640.jpg)
 
 ### Overview
 
@@ -22,8 +22,6 @@ It is not available for other games on DiSEL.
 ## DiSELコスパ表示@トーラム
 
 ### Chrome web store: [DiSELコスパ表示@トーラム](https://chrome.google.com/webstore/detail/disel-price-per-point-on/nbhjgdmlihcoedohigghahmakamlliib?hl=ja&authuser=0)
-
-<img src="https://bitbucket.org/repo/xXbp7p9/images/631348151-ja_deco.jpg" width="640">
 
 ### 概要
 
